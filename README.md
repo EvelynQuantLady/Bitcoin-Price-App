@@ -11,4 +11,6 @@
 - The graph can be magnified using rangeslider which is right below the graph.
 - The average price value for the selected duration is displayed on the 3rd section of the page.
 
+# App UI
+![](https://github.com/A00456571/Bitcoin-Price-App/blob/main/Working.png)
 
